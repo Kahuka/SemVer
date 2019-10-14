@@ -1,3 +1,6 @@
 # SemVer
 SemVer exercise
-2 RC Versioon 1
+
+RC Versioon 1
+
+RC Versioon 2
